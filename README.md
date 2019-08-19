@@ -1,3 +1,5 @@
+Don't panic where redis connection error.Nothing change.
+
 [![Build Status](https://travis-ci.org/adjust/rmq.svg?branch=master)](https://travis-ci.org/adjust/rmq)
 [![GoDoc](https://godoc.org/github.com/adjust/rmq?status.svg)](https://godoc.org/github.com/adjust/rmq)
 
