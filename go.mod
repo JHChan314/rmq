@@ -3,8 +3,8 @@ module rmq
 go 1.12
 
 require (
+	github.com/JHChan314/rmq v1.0.0
 	github.com/adjust/gocheck v0.0.0-20131111155431-fbc315b36e0e
-	github.com/adjust/rmq v1.0.0
 	github.com/adjust/uniuri v0.0.0-20130923163420-498743145e60
 	github.com/garyburd/redigo v1.6.0 // indirect
 	github.com/go-redis/redis v0.0.0-20190503082931-75795aa4236d
